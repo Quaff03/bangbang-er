@@ -1,0 +1,41 @@
+{
+  "abis": [
+    "arm64-v8a"
+  ],
+  "assets": [],
+  "build": {
+    "number": 0,
+    "time": 0
+  },
+  "excludeDirs": [
+    "build"
+  ],
+  "useFeatures": [],
+  "launchConfig": {
+    "launcherVisible": true,
+    "logsVisible": true,
+    "runOnBoot": false,
+    "splashVisible": true,
+    "slug": "Powered by Quaff5353"
+  },
+  "libs": [],
+  "main": "main.js",
+  "name": "炸鱼",
+  "packageName": "org.quaff.bang",
+  "permissions": [
+    "android.permission.FOREGROUND_SERVICE",
+    "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+    "android.permission.INTERNET",
+    "android.permission.KILL_BACKGROUND_PROCESSES",
+    "android.permission.MANAGE_EXTERNAL_STORAGE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+    "android.permission.SYSTEM_ALERT_WINDOW",
+    "android.permission.WAKE_LOCK",
+    "android.permission.WRITE_EXTERNAL_STORAGE"
+  ],
+  "signatureScheme": "V1 + V2 + V3",
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
